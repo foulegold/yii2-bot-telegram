@@ -7,7 +7,7 @@ use aki\telegram\base\TelegramBase;
 use aki\telegram\types\User;
 
 /**
- * @author Akbar Joudi <akbar.joody@gmail.com>
+ * 123123123
  */
 class Telegram extends TelegramBase
 {
